@@ -1,0 +1,11 @@
+.awan{
+    background-color: whitesmoke;
+    width: 60%;
+    left: 15%;
+    top:225%;
+    position: absolute;
+}
+#cross{
+    color: gray;
+    font-size: 20px;
+}

@@ -1,0 +1,60 @@
+.image{
+    background-color: white;
+    width: 90%;
+}
+#hospi{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.name{
+    color:black;
+    font-family: 'Inter';
+    font-size: x-large;
+    font-weight: 800;
+}
+.address{
+       color:black;
+    font-family: 'Inter';
+    font-size: medium;
+    font-weight: 400;
+}
+#direc{
+background-color:#004C71;
+color: white;
+border: 2px #004C71 solid;
+border-radius: 5px;
+font-family: 'Varela';
+font-size: 17px;
+width: 200px;
+height: 40px;
+}
+#call{
+    background-color: #56A88B;
+    color: white;
+    border: 2px #56A88B solid;
+    font-size: 17px;
+    font-family: 'Varela';
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+}
+.func{
+    background-color: gray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border-radius: 10px;
+    padding-right: 5px;
+    position: absolute;
+      top: 1px;
+  left: 70%;
+}
+#buu{
+    width: 150px;
+    color: white;
+    background-color: #004C71;
+    border: 2px teal solid;
+    border-radius: 10px;
+}

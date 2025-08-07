@@ -1,0 +1,49 @@
+.book{
+   background-color: whitesmoke;
+    width: 60%;
+    top:100%;
+position: absolute;
+left: 15%;
+}
+.now{
+    background-color: white;
+    
+}
+#navy{
+    color:#004C71;
+}
+#navy:hover{
+    color: grey;
+}
+
+#app{
+    color: #004C71;
+}
+#but{
+    color:black;
+    background-color: #e5e5e5;
+    border: 2px #e5e5e5 solid;
+    border-radius: 5px;
+}
+.no{
+    background-color: white;
+}
+#inp{
+width: 100%;
+border: 2px #e5e5e5 solid;
+border-radius: 5px;
+
+}
+#tick{
+    color:green;
+}
+#dir{
+background-color:#004C71;
+color: white;
+border: 2px #004C71 solid;
+border-radius: 5px;
+font-family: 'Varela';
+font-size: 17px;
+width: auto;
+height: 40px;
+}

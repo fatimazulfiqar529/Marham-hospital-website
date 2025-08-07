@@ -1,0 +1,20 @@
+.contains{
+    background-color: whitesmoke;
+    border: 2px #e5e5e5 solid;
+    border-radius: 10px;
+    width: 90%;
+}
+.contain p{
+    color: #004C71;
+}
+.contain p:hover{
+color: grey;
+}
+#logo{
+    color:#004C71;
+    font-size: 17px;
+    font-weight: 500;
+}
+#black{
+    color: black;
+}

@@ -1,0 +1,57 @@
+
+.navbar{
+    background-color: #ffffff;
+}
+.nav-link{
+    color: #004C71;
+}
+#non:hover{
+    background-color: whitesmoke;
+}
+#marh{
+    color: #004C71;
+    font-family: 'Poppins';
+    font-size: large;
+    font-weight: 600;
+}
+#marham{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top:-10px;
+}
+.dropdown-menu{
+    border: 2px transparent solid;
+}
+.dropdown-item{
+    color:#004C71;
+}
+.dropdown-item:hover{
+    color:#004C71;
+}
+.btn{
+    color:#004C71;
+    background-color: white;
+    border: 2px white solid;
+}
+.btn:hover{
+    color:white;
+    background-color: #004C71;
+    border: 2px #004C71 solid;
+}
+#phone{
+    background-color: #004C71;
+    color: white;
+    border: 2px #004C71 solid;
+    border-radius: 3px;
+    height: 40px;
+    width: 40px;
+}
+#login{
+    background-color: white;
+    color: #004C71;
+    border: 2px #004C71 solid;
+    border-radius: 3px;
+    width: 60px;
+    height: 40px;
+}

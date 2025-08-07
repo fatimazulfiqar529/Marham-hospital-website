@@ -1,0 +1,63 @@
+.doctor{
+    background-color: white;
+    width: 90%;
+}.list{
+    background-color: white;
+    width: 90%;
+}
+#salman{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+#salu{
+    text-decoration: underline;
+    color: black;
+    font-weight: 400;
+    font-size: large;
+        font-family: 'Inter';
+
+}
+#riaz{
+    color: black;
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'Roboto'
+
+}
+.review{
+    color:orange;
+}
+#riew{
+    color:#004C71;
+}
+#dire{
+background-color:#004C71;
+color: white;
+border: 2px #004C71 solid;
+border-radius: 5px;
+font-family: 'Varela';
+font-size: 17px;
+width: 300px;
+height: 40px;
+}
+#cal{
+    background-color: #56A88B;
+    color: white;
+    border: 2px #56A88B solid;
+    font-size: 17px;
+    font-family: 'Varela';
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+.appointment{
+    border: 2px #004C71 solid;
+    border-radius: 10px;
+}
+#par{
+    color:#004C71;
+      font-family: 'Poppins';
+    font-size: medium;
+    font-weight: 600;
+}
